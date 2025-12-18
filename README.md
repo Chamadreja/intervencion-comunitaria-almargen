@@ -21,4 +21,4 @@ El trabajo propone una serie de mejoras técnicas basadas en principios de **Tec
 Este proyecto demuestra cómo la ingeniería de software puede aplicarse con una perspectiva social, priorizando la **ética profesional** y el apoyo a organizaciones territoriales que promueven el comercio justo.
 
 ## Contenido del Repositorio
-- `/documentacion`: Informe detallado del diagnóstico web y presentación de la propuesta.
+- `/docs`: Informe detallado del diagnóstico web y presentación de la propuesta.
